@@ -1,0 +1,13 @@
+{
+    "require": {
+        "silex/silex": "2.0.*@dev",
+        "philo/laravel-blade": "dev-master",
+        "league/csv": "6.*",
+        "illuminate/database": "v4.1.30"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gogo": "src"
+        }
+    }
+}
